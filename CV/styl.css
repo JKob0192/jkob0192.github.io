@@ -1,8 +1,7 @@
 body
 
 {
-    background-color: #AAFFFF;
-    font-size: large;
+    background-image: linear-gradient(yellow, lightblue, lime);
 }
 
 h1
