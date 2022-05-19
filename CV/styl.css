@@ -1,11 +1,7 @@
 body
 
 {
-<<<<<<< HEAD
-    background-image: linear-gradient(top left to bottom right,yellow, lightblue, #4bff96);
-=======
-    background-image: linear-gradient(top left to bottom right,yellow, lightblue);
->>>>>>> 2738a34f5e3404533a0fd27c0e86f54fb66667e1
+    background-image: linear-gradient(to bottom right, yellow, #57ff9d, lightblue);
 }
 
 h1
