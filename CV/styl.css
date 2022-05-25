@@ -2,10 +2,6 @@ body
 
 {
     background-image: linear-gradient(to bottom right, yellow, #57ff9d, lightblue);
-    padding: 0%;
-    border-color: black;
-    border-width: 5mm;
-    border-style: solid;
 }
 
 h1
