@@ -2,9 +2,10 @@ body
 
 {
     background-image: linear-gradient(to bottom right, yellow, #57ff9d, lightblue);
-    outline-offset: 0cm;
-    outline-width: 5mm;
-    outline-color: black;
+    padding: 1cm;
+    border-width: 5mm;
+    border-color: black;
+    border-style: solid;
 }
 
 h1
