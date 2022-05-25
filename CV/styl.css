@@ -2,6 +2,9 @@ body
 
 {
     background-image: linear-gradient(to bottom right, yellow, #57ff9d, lightblue);
+    outline-offset: 0cm;
+    outline-width: 5mm;
+    outline-color: black;
 }
 
 h1
